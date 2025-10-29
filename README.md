@@ -11,7 +11,8 @@
 ### 📦 Build Tool: Gradle
 
 # 🎯 Goals
-This exercise introduces Spring Boot and REST API development. The goal is to build a minimal but functional API that receives and returns data in JSON format, using HTTP methods and applying best practices.
+This exercise introduces Spring Boot and REST API development.
+The goal is to build a minimal but functional API that receives and returns data in JSON format, using HTTP methods and applying best practices.
 
 # 💻 Technologies Used
 ### ☕ Java 21
@@ -66,8 +67,7 @@ Standalone execution with embedded Tomcat
 
 
 ## ⭐⭐ Level 2 — In-Memory User Management
-<details>
-<summary><strong>
+
 ### 📋 Features Implemented:
 Model: User class with UUID, name, email
 
@@ -89,11 +89,9 @@ JSON request/response validation
 Error handling (404 Not Found)
 
 Parameter filtering tests
-</details>
 
 ## ⭐⭐⭐ Level 3 — Layered Architecture Refactor
-<details>
-<summary><strong>
+
 ###  🏗️ Architecture Layers:
 1. Repository Layer
 UserRepository interface
@@ -131,7 +129,7 @@ Bean management with @Repository, @Service, @RestController
 Layered architecture principles
 
 SOLID principles implementation
-</details>
+
 
 # 🤝 Contributions
 ### ⭐ Star the repository
