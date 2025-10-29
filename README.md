@@ -1,12 +1,12 @@
 # 🍃 Spring Boot REST API - User Management System
 
-### 👨‍💻 Author: Lucy Castro
+** 👨‍💻 Author:**  Lucy Castro
 
-### 🧠 Learning Focus: Builder, Observer, and Callback Patterns
+** 🧠 Learning Focus:**  Builder, Observer, and Callback Patterns
 
-### 🛠️ IDE: IntelliJ IDEA
+** 🛠️ IDE:**  IntelliJ IDEA
 
-### 💡 Java SDK: 21
+**  Java SDK:**  21
 
 ### 📦 Build Tool: Gradle
 
