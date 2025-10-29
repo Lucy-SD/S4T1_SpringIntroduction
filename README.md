@@ -1,28 +1,28 @@
-🍃 Spring Boot REST API - User Management System
+# 🍃 Spring Boot REST API - User Management System
 
-👨‍💻 Author: Lucy Castro
+## 👨‍💻 Author: Lucy Castro
 
-🧠 Learning Focus: Builder, Observer, and Callback Patterns
+## 🧠 Learning Focus: Builder, Observer, and Callback Patterns
 
-🛠️ IDE: IntelliJ IDEA
+## 🛠️ IDE: IntelliJ IDEA
 
-💡 Java SDK: 21
+## 💡 Java SDK: 21
 
-📦 Build Tool: Gradle
+## 📦 Build Tool: Gradle
 
-🎯 Goals
+# 🎯 Goals
 This exercise introduces Spring Boot and REST API development. The goal is to build a minimal but functional API that receives and returns data in JSON format, using HTTP methods and applying best practices.
 
-💻 Technologies Used
-☕ Java 21
+# 💻 Technologies Used
+## ☕ Java 21
 
-🧠 IntelliJ IDEA
+## 🧠 IntelliJ IDEA
 
-📦 Maven
+## 📦 Maven
 
-🗃️ Git & GitHub
+## 🗃️ Git & GitHub
 
-⌨️ Command Line Tools
+## ⌨️ Command Line Tools
 
 📋 Requirements
 ✅ Java JDK 21
