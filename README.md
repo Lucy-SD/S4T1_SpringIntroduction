@@ -1,48 +1,76 @@
 # 🍃 Spring Boot REST API - User Management System
 
-** 👨‍💻 Author:**  Lucy Castro
+**👨‍💻 Author:**  Lucy Castro
 
-** 🧠 Learning Focus:**  Builder, Observer, and Callback Patterns
+**🧠 Learning Focus:**  Spring Boot, REST APIs, Layered Architecture
 
-** 🛠️ IDE:**  IntelliJ IDEA
+**🛠️ IDE:**  IntelliJ IDEA
 
-**  Java SDK:**  21
+**Java SDK:**  21
 
-### 📦 Build Tool: Gradle
+### 📦 Build Tool: Maven
 
-# 🎯 Goals
-This exercise introduces Spring Boot and REST API development.
-The goal is to build a minimal but functional API that receives and returns data in JSON format, using HTTP methods and applying best practices.
+# 📄 Description
+This repository contains a Spring Boot REST API for user management. The project demonstrates fundamental Spring Boot concepts, REST API development, and professional software architecture patterns. The application provides complete CRUD operations for user management with in-memory data storage.
 
 # 💻 Technologies Used
-### ☕ Java 21
+- ☕ Java 21
 
-### 🧠 IntelliJ IDEA
+- 🌱 Spring Boot
 
-### 📦 Maven
+- 🧪 JUnit 5 & Mockito
 
-### 🗃️ Git & GitHub
+- 📭 MockMvc
 
-### ⌨️ Command Line Tools
+- 🗃️ Maven
+
+- 🚀 Apache Tomcat (Embedded)
+
+- 📡 RESTful Web Services
 
 # 📋 Requirements
-### ✅ Java JDK 21
 
-### ✅ Maven
+- ✅ Java JDK 21
 
-### ✅ IntelliJ IDEA
+- ✅ Maven 3.6+
 
-### ✅ Git
+- ✅ IntelliJ IDEA (Recommended)
 
-### ✅ Spring Web, Spring Boot DevTools
+- ✅ Git
 
-### ✅ Port Configuration: server.port=9000
+- ✅ Postman (For API Testing)
 
-# 📚 Exercise Catalog
+- ✅ Port Configuration: server.port=9000
+
+
+# 🎯 Exercise Goals
+
+This exercise introduces Spring Boot and REST API development. The goal is to build a minimal but functional API that receives and returns data in JSON format, using HTTP methods and applying best practices from the start.
+
+# 🔑 Key Concepts Covered:
+* REST API principles and implementation
+
+* Controllers with @RestController
+
+* HTTP GET and POST methods
+
+* URL parameters with @PathVariable and @RequestParam
+
+* JSON data handling with @RequestBody
+
+* Automated testing with MockMvc and @SpringBootTest
+
+* Dependency Injection and IoC containers
+
+* Layered architecture (Controller-Service-Repository)
+
+* Build and deploy executable JAR with embedded Tomcat
+
+
+# 📚 Exercise Levels
 
 ## ⭐ Level 1 — First Rest API
-<details>
-<summary><strong>
+
 ### 👥 Endpoint GET – /health
 ### 🛠️ Implementation:
 
@@ -63,8 +91,6 @@ Automated tests with MockMvc
 Executable JAR generation with Maven
 
 Standalone execution with embedded Tomcat
-</details>
-
 
 ## ⭐⭐ Level 2 — In-Memory User Management
 
